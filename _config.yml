@@ -1,0 +1,33 @@
+# Site settings
+title: Align
+subtitle: We got your back!
+email: hello@alignme.ca
+url: https://alignme.ca
+description: Proactive Spinal Care Personalized Just For You.
+info: We are developing a spinal tracking technology which will help you function without any pain. 
+call-to-action: Join our private research pilot and get a free spinal assessment. 
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#2CD4BE'
+
+# Footer settings
+footer: Spawnlab Technologies Corp.
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  # - title: twitter
+  #   url:
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url:
+  # - title: bitbucket
+  #   url:
+  # - title: github
+  #   url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
