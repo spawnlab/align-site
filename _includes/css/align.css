@@ -140,7 +140,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/back-pose-main.jpg) no-repeat top center;
+    background: url(/align-site/img/back-pose-main.jpg) no-repeat top center;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -268,7 +268,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/pose-downloads.jpg) no-repeat center center scroll;
+    background: url(/align-site/img/pose-downloads.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
